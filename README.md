@@ -1,4 +1,4 @@
-# Java Grade Submission Site
+# Java Grade Submission Site
 
 ## Stack
 
