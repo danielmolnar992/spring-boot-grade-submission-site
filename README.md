@@ -1,5 +1,7 @@
 # Java Grade Submission Site
 
+Submit and update grades of students on a UI
+
 ## Stack
 
 - Java JDK 11
